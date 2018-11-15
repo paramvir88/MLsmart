@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542865891258",
+    "firebase_url": "https://mlsmart-5cde7.firebaseio.com",
+    "project_id": "mlsmart-5cde7",
+    "storage_bucket": "mlsmart-5cde7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542865891258:android:4461d42150184e68",
+        "android_client_info": {
+          "package_name": "com.example.paramvir.mlsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542865891258-570qcr9bes84lv0547e72gnvfie4slv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paramvir.mlsmart",
+            "certificate_hash": "e48d1e164708d911e7f384fa3ecfe69cb38000b2"
+          }
+        },
+        {
+          "client_id": "542865891258-6gro3fb7888hgsrh3tq7n62tr1gvqijm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5jXGwVf_nRmiXPTBfwdsN5jm5oJGDcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542865891258-6gro3fb7888hgsrh3tq7n62tr1gvqijm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
