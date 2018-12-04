@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         textRecognizer.processImage(image)
                 .addOnSuccessListener {
-                    Log.i("MainActivity", "Success in parsing text")
+                    //Log.i("MainActivity", "Success in parsing text")
                     val resultText = it.text
                     Log.i("MainActivity", "The text is: $resultText")
 
